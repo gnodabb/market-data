@@ -5,6 +5,12 @@ set -euo pipefail
 REPO_DIR="$HOME/market-data"          # local clone of the GitHub repo
 VENV="$HOME/market-data-venv"         # python venv with yfinance
 LOG="$HOME/market-data.log"
+MAX_LOG_LINES=2000                    # about 6 months of runs; older lines are dropped
+
+# Keep the log bounded: trim to the newest MAX_LOG_LINES before each run.
+if [[ -f "$LOG" ]] && (( $(wc -l <"$LOG") > MAX_LOG_LINES )); then
+  tail -n "$MAX_LOG_LINES" "$LOG" >"$LOG.tmp" && mv "$LOG.tmp" "$LOG"
+fi
 
 {
   echo "=== $(date -Is) ==="
