@@ -2,9 +2,9 @@
 # Fetch prices and push prices.json to the GitHub repo. Run from cron.
 set -euo pipefail
 
-REPO_DIR="$HOME/market-data"          # local clone of the GitHub repo
-VENV="$HOME/market-data-venv"         # python venv with yfinance
-LOG="$HOME/market-data.log"
+REPO_DIR="$HOME/market-data/market-data"          # local clone of the GitHub repo
+VENV="$HOME/market-data/market-data-venv"         # python venv with yfinance
+LOG="$HOME/market-data/market-data.log"
 MAX_LOG_LINES=2000                    # about 6 months of runs; older lines are dropped
 
 # Keep the log bounded: trim to the newest MAX_LOG_LINES before each run.
