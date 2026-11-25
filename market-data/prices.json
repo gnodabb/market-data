@@ -1,17 +1,9 @@
 {
- "generated_utc": "2026-11-24T14:28:19+00:00",
+ "generated_utc": "2026-11-25T14:45:26+00:00",
  "tickers": {
   "SCHX": {
    "name": "Schwab U.S. Large-Cap",
    "closes": [
-    {
-     "date": "2026-11-03",
-     "close": 29.7
-    },
-    {
-     "date": "2026-11-04",
-     "close": 30.14
-    },
     {
      "date": "2026-11-05",
      "close": 28.83
@@ -63,25 +55,25 @@
     {
      "date": "2026-11-23",
      "close": 28.42
+    },
+    {
+     "date": "2026-11-24",
+     "close": 28.27
+    },
+    {
+     "date": "2026-11-25",
+     "close": 27.355
     }
    ],
-   "last_date": "2026-11-23",
-   "last_close": 28.42,
-   "prev_close": 27.1,
-   "change": 1.32,
-   "pct_change": 4.871
+   "last_date": "2026-11-25",
+   "last_close": 27.355,
+   "prev_close": 28.27,
+   "change": -0.915,
+   "pct_change": -3.237
   },
   "FLJP": {
    "name": "Franklin FTSE Japan",
    "closes": [
-    {
-     "date": "2026-11-03",
-     "close": 39.52
-    },
-    {
-     "date": "2026-11-04",
-     "close": 40.0
-    },
     {
      "date": "2026-11-05",
      "close": 37.8
@@ -133,25 +125,25 @@
     {
      "date": "2026-11-23",
      "close": 37.21
+    },
+    {
+     "date": "2026-11-24",
+     "close": 37.12
+    },
+    {
+     "date": "2026-11-25",
+     "close": 36.55
     }
    ],
-   "last_date": "2026-11-23",
-   "last_close": 37.21,
-   "prev_close": 35.89,
-   "change": 1.32,
-   "pct_change": 3.678
+   "last_date": "2026-11-25",
+   "last_close": 36.55,
+   "prev_close": 37.12,
+   "change": -0.57,
+   "pct_change": -1.536
   },
   "SCHF": {
    "name": "Schwab International Equity",
    "closes": [
-    {
-     "date": "2026-11-03",
-     "close": 26.95
-    },
-    {
-     "date": "2026-11-04",
-     "close": 27.51
-    },
     {
      "date": "2026-11-05",
      "close": 26.48
@@ -203,25 +195,25 @@
     {
      "date": "2026-11-23",
      "close": 25.54
+    },
+    {
+     "date": "2026-11-24",
+     "close": 25.47
+    },
+    {
+     "date": "2026-11-25",
+     "close": 24.955
     }
    ],
-   "last_date": "2026-11-23",
-   "last_close": 25.54,
-   "prev_close": 24.7,
-   "change": 0.84,
-   "pct_change": 3.401
+   "last_date": "2026-11-25",
+   "last_close": 24.955,
+   "prev_close": 25.47,
+   "change": -0.515,
+   "pct_change": -2.022
   },
   "SCHA": {
    "name": "Schwab U.S. Small-Cap",
    "closes": [
-    {
-     "date": "2026-11-03",
-     "close": 33.13
-    },
-    {
-     "date": "2026-11-04",
-     "close": 33.59
-    },
     {
      "date": "2026-11-05",
      "close": 32.15
@@ -273,25 +265,25 @@
     {
      "date": "2026-11-23",
      "close": 31.56
+    },
+    {
+     "date": "2026-11-24",
+     "close": 31.67
+    },
+    {
+     "date": "2026-11-25",
+     "close": 30.97
     }
    ],
-   "last_date": "2026-11-23",
-   "last_close": 31.56,
-   "prev_close": 30.51,
-   "change": 1.05,
-   "pct_change": 3.441
+   "last_date": "2026-11-25",
+   "last_close": 30.97,
+   "prev_close": 31.67,
+   "change": -0.7,
+   "pct_change": -2.21
   },
   "NVDA": {
    "name": "NVIDIA",
    "closes": [
-    {
-     "date": "2026-11-03",
-     "close": 206.69
-    },
-    {
-     "date": "2026-11-04",
-     "close": 200.13
-    },
     {
      "date": "2026-11-05",
      "close": 181.6
@@ -343,27 +335,27 @@
     {
      "date": "2026-11-23",
      "close": 165.05
+    },
+    {
+     "date": "2026-11-24",
+     "close": 155.38
+    },
+    {
+     "date": "2026-11-25",
+     "close": 141.76
     }
    ],
-   "last_date": "2026-11-23",
-   "last_close": 165.05,
-   "prev_close": 125.53,
-   "change": 39.52,
-   "pct_change": 31.483
+   "last_date": "2026-11-25",
+   "last_close": 141.76,
+   "prev_close": 155.38,
+   "change": -13.62,
+   "pct_change": -8.766
   }
  },
  "indexes": {
   "^GSPC": {
    "name": "S&P 500",
    "closes": [
-    {
-     "date": "2026-11-03",
-     "close": 7568.9199
-    },
-    {
-     "date": "2026-11-04",
-     "close": 7688.6201
-    },
     {
      "date": "2026-11-05",
      "close": 7353.73
@@ -415,25 +407,25 @@
     {
      "date": "2026-11-23",
      "close": 7237.1699
+    },
+    {
+     "date": "2026-11-24",
+     "close": 7201.0898
+    },
+    {
+     "date": "2026-11-25",
+     "close": 6973.3599
     }
    ],
-   "last_date": "2026-11-23",
-   "last_close": 7237.1699,
-   "prev_close": 6910.3901,
-   "change": 326.7798,
-   "pct_change": 4.729
+   "last_date": "2026-11-25",
+   "last_close": 6973.3599,
+   "prev_close": 7201.0898,
+   "change": -227.7299,
+   "pct_change": -3.162
   },
   "^DJI": {
    "name": "Dow",
    "closes": [
-    {
-     "date": "2026-11-03",
-     "close": 51786.7188
-    },
-    {
-     "date": "2026-11-04",
-     "close": 53356.1211
-    },
     {
      "date": "2026-11-05",
      "close": 51523.0586
@@ -485,25 +477,25 @@
     {
      "date": "2026-11-23",
      "close": 49595.3086
+    },
+    {
+     "date": "2026-11-24",
+     "close": 50018.6992
+    },
+    {
+     "date": "2026-11-25",
+     "close": 48916.8984
     }
    ],
-   "last_date": "2026-11-23",
-   "last_close": 49595.3086,
-   "prev_close": 48147.3281,
-   "change": 1447.9805,
-   "pct_change": 3.007
+   "last_date": "2026-11-25",
+   "last_close": 48916.8984,
+   "prev_close": 50018.6992,
+   "change": -1101.8008,
+   "pct_change": -2.203
   },
   "^IXIC": {
    "name": "Nasdaq",
    "closes": [
-    {
-     "date": "2026-11-03",
-     "close": 25372.0098
-    },
-    {
-     "date": "2026-11-04",
-     "close": 25736.5098
-    },
     {
      "date": "2026-11-05",
      "close": 24315.0
@@ -555,25 +547,25 @@
     {
      "date": "2026-11-23",
      "close": 24089.5605
+    },
+    {
+     "date": "2026-11-24",
+     "close": 23733.5391
+    },
+    {
+     "date": "2026-11-25",
+     "close": 22645.3223
     }
    ],
-   "last_date": "2026-11-23",
-   "last_close": 24089.5605,
-   "prev_close": 22617.7305,
-   "change": 1471.83,
-   "pct_change": 6.507
+   "last_date": "2026-11-25",
+   "last_close": 22645.3223,
+   "prev_close": 23733.5391,
+   "change": -1088.2168,
+   "pct_change": -4.585
   },
   "^RUT": {
    "name": "Russell 2000",
    "closes": [
-    {
-     "date": "2026-11-03",
-     "close": 2812.45
-    },
-    {
-     "date": "2026-11-04",
-     "close": 2856.95
-    },
     {
      "date": "2026-11-05",
      "close": 2729.8899
@@ -625,216 +617,224 @@
     {
      "date": "2026-11-23",
      "close": 2669.6599
+    },
+    {
+     "date": "2026-11-24",
+     "close": 2684.9399
+    },
+    {
+     "date": "2026-11-25",
+     "close": 2644.5664
     }
    ],
-   "last_date": "2026-11-23",
-   "last_close": 2669.6599,
-   "prev_close": 2581.79,
-   "change": 87.8699,
-   "pct_change": 3.403
+   "last_date": "2026-11-25",
+   "last_close": 2644.5664,
+   "prev_close": 2684.9399,
+   "change": -40.3735,
+   "pct_change": -1.504
   }
  },
  "errors": {},
  "futures": {
   "ES=F": {
    "name": "S&P 500 futures",
-   "last": 7178.75,
-   "last_time_utc": "2026-11-24T14:15+00:00",
-   "prev_close": 7254.5,
-   "change": -75.75,
-   "pct_change": -1.044,
-   "fetched_utc": "2026-11-24T14:28:20+00:00"
+   "last": 7025.5,
+   "last_time_utc": "2026-11-25T14:35+00:00",
+   "prev_close": 7217.5,
+   "change": -192.0,
+   "pct_change": -2.66,
+   "fetched_utc": "2026-11-25T14:45:27+00:00"
   },
   "NQ=F": {
    "name": "Nasdaq 100 futures",
-   "last": 26313.0,
-   "last_time_utc": "2026-11-24T14:15+00:00",
-   "prev_close": 26808.0,
-   "change": -495.0,
-   "pct_change": -1.846,
-   "fetched_utc": "2026-11-24T14:28:20+00:00"
+   "last": 25218.5,
+   "last_time_utc": "2026-11-25T14:35+00:00",
+   "prev_close": 26275.75,
+   "change": -1057.25,
+   "pct_change": -4.024,
+   "fetched_utc": "2026-11-25T14:45:27+00:00"
   },
   "YM=F": {
    "name": "Dow futures",
-   "last": 49452.0,
-   "last_time_utc": "2026-11-24T14:15+00:00",
-   "prev_close": 49677.0,
-   "change": -225.0,
-   "pct_change": -0.453,
-   "fetched_utc": "2026-11-24T14:28:21+00:00"
+   "last": 49209.0,
+   "last_time_utc": "2026-11-25T14:35+00:00",
+   "prev_close": 50061.0,
+   "change": -852.0,
+   "pct_change": -1.702,
+   "fetched_utc": "2026-11-25T14:45:28+00:00"
   },
   "RTY=F": {
    "name": "Russell 2000 futures",
-   "last": 2658.7,
-   "last_time_utc": "2026-11-24T14:15+00:00",
-   "prev_close": 2674.1001,
-   "change": -15.4001,
-   "pct_change": -0.576,
-   "fetched_utc": "2026-11-24T14:28:21+00:00"
+   "last": 2639.5,
+   "last_time_utc": "2026-11-25T14:35+00:00",
+   "prev_close": 2689.3,
+   "change": -49.8,
+   "pct_change": -1.852,
+   "fetched_utc": "2026-11-25T14:45:28+00:00"
   },
   "^N225": {
    "name": "Nikkei 225",
-   "last": 58576.5,
-   "last_time_utc": "2026-11-24T06:25+00:00",
-   "prev_close": 56436.6484,
-   "change": 2139.8516,
-   "pct_change": 3.792,
-   "fetched_utc": "2026-11-24T14:28:21+00:00"
+   "last": 57117.1094,
+   "last_time_utc": "2026-11-25T06:25+00:00",
+   "prev_close": 58644.6289,
+   "change": -1527.5195,
+   "pct_change": -2.605,
+   "fetched_utc": "2026-11-25T14:45:28+00:00"
   }
  },
  "weather": {
   "location": "Huntsville, AL",
-  "forecast_updated": "2026-11-24T13:50:24+00:00",
+  "forecast_updated": "2026-11-25T13:50:25+00:00",
   "periods": [
    {
     "name": "Today",
-    "start": "2026-11-24T08:00:00-06:00",
+    "start": "2026-11-25T08:00:00-06:00",
     "is_day": true,
-    "temp_f": 61,
-    "precip_pct": 0,
-    "wind": "NE 5 to 10 mph",
-    "short": "Partly Sunny",
-    "detail": "Partly sunny, with a high near 61. Northeast wind 5 to 10 mph, with gusts as high as 20 mph."
+    "temp_f": 59,
+    "precip_pct": 97,
+    "wind": "ENE 5 to 10 mph",
+    "short": "Rain Showers",
+    "detail": "Rain showers. Mostly cloudy, with a high near 59. East northeast wind 5 to 10 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
    },
    {
     "name": "Tonight",
-    "start": "2026-11-24T18:00:00-06:00",
-    "is_day": false,
-    "temp_f": 46,
-    "precip_pct": 25,
-    "wind": "E 5 to 10 mph",
-    "short": "Mostly Cloudy then Chance Rain Showers",
-    "detail": "A chance of rain showers after 3am. Mostly cloudy, with a low around 46. East wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 30%."
-   },
-   {
-    "name": "Wednesday",
-    "start": "2026-11-25T06:00:00-06:00",
-    "is_day": true,
-    "temp_f": 57,
-    "precip_pct": 89,
-    "wind": "ESE 5 to 10 mph",
-    "short": "Rain Showers",
-    "detail": "Rain showers. Cloudy, with a high near 57. East southeast wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
-   },
-   {
-    "name": "Wednesday Night",
     "start": "2026-11-25T18:00:00-06:00",
     "is_day": false,
-    "temp_f": 41,
-    "precip_pct": 93,
-    "wind": "N 0 to 5 mph",
+    "temp_f": 39,
+    "precip_pct": 100,
+    "wind": "NNW 0 to 10 mph",
     "short": "Rain Showers",
-    "detail": "Rain showers. Cloudy, with a low around 41. North wind 0 to 5 mph. Chance of precipitation is 90%."
+    "detail": "Rain showers. Cloudy, with a low around 39. North northwest wind 0 to 10 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
    },
    {
     "name": "Thanksgiving Day",
     "start": "2026-11-26T06:00:00-06:00",
     "is_day": true,
-    "temp_f": 50,
-    "precip_pct": 37,
-    "wind": "WNW 5 to 15 mph",
-    "short": "Chance Rain Showers then Mostly Cloudy",
-    "detail": "A chance of rain showers before noon. Mostly cloudy, with a high near 50. West northwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%."
+    "temp_f": 48,
+    "precip_pct": 99,
+    "wind": "WNW 10 to 15 mph",
+    "short": "Rain Showers",
+    "detail": "Rain showers before 4pm. Cloudy, with a high near 48. West northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible."
    },
    {
     "name": "Thursday Night",
     "start": "2026-11-26T18:00:00-06:00",
     "is_day": false,
-    "temp_f": 32,
-    "precip_pct": 3,
-    "wind": "W 10 mph",
-    "short": "Partly Cloudy",
-    "detail": "Partly cloudy, with a low around 32."
+    "temp_f": 34,
+    "precip_pct": 17,
+    "wind": "W 15 mph",
+    "short": "Slight Chance Rain Showers then Cloudy",
+    "detail": "A slight chance of rain showers before midnight. Cloudy, with a low around 34. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
    },
    {
     "name": "Friday",
     "start": "2026-11-27T06:00:00-06:00",
     "is_day": true,
-    "temp_f": 53,
+    "temp_f": 52,
     "precip_pct": 0,
-    "wind": "W 5 to 10 mph",
-    "short": "Sunny",
-    "detail": "Sunny, with a high near 53."
+    "wind": "W 5 to 15 mph",
+    "short": "Partly Sunny",
+    "detail": "Partly sunny, with a high near 52. West wind 5 to 15 mph, with gusts as high as 25 mph."
    },
    {
     "name": "Friday Night",
     "start": "2026-11-27T18:00:00-06:00",
     "is_day": false,
-    "temp_f": 31,
+    "temp_f": 30,
     "precip_pct": 0,
     "wind": "SW 0 to 5 mph",
     "short": "Mostly Clear",
-    "detail": "Mostly clear, with a low around 31."
+    "detail": "Mostly clear, with a low around 30."
    },
    {
     "name": "Saturday",
     "start": "2026-11-28T06:00:00-06:00",
     "is_day": true,
-    "temp_f": 62,
+    "temp_f": 61,
     "precip_pct": 0,
-    "wind": "SSW 0 to 10 mph",
+    "wind": "SSW 0 to 5 mph",
     "short": "Sunny",
-    "detail": "Sunny, with a high near 62."
+    "detail": "Sunny, with a high near 61."
    },
    {
     "name": "Saturday Night",
     "start": "2026-11-28T18:00:00-06:00",
     "is_day": false,
-    "temp_f": 40,
-    "precip_pct": 15,
+    "temp_f": 41,
+    "precip_pct": 2,
     "wind": "S 5 mph",
-    "short": "Mostly Clear then Slight Chance Rain Showers",
-    "detail": "A slight chance of rain showers after midnight. Mostly clear, with a low around 40. Chance of precipitation is 20%."
+    "short": "Mostly Clear",
+    "detail": "Mostly clear, with a low around 41."
    },
    {
     "name": "Sunday",
     "start": "2026-11-29T06:00:00-06:00",
     "is_day": true,
-    "temp_f": 64,
-    "precip_pct": 31,
-    "wind": "S 5 to 10 mph",
+    "temp_f": 65,
+    "precip_pct": 52,
+    "wind": "S 10 to 15 mph",
     "short": "Chance Rain Showers",
-    "detail": "A chance of rain showers. Mostly sunny, with a high near 64. Chance of precipitation is 30%."
+    "detail": "A chance of rain showers. Partly sunny, with a high near 65. Chance of precipitation is 50%."
    },
    {
     "name": "Sunday Night",
     "start": "2026-11-29T18:00:00-06:00",
     "is_day": false,
-    "temp_f": 40,
-    "precip_pct": 18,
-    "wind": "S 0 to 5 mph",
-    "short": "Slight Chance Rain Showers then Partly Cloudy",
-    "detail": "A slight chance of rain showers before midnight. Partly cloudy, with a low around 40. Chance of precipitation is 20%."
+    "temp_f": 41,
+    "precip_pct": 27,
+    "wind": "W 5 to 10 mph",
+    "short": "Chance Rain Showers then Mostly Cloudy",
+    "detail": "A chance of rain showers before midnight. Mostly cloudy, with a low around 41. Chance of precipitation is 30%."
    },
    {
     "name": "Monday",
     "start": "2026-11-30T06:00:00-06:00",
     "is_day": true,
-    "temp_f": 63,
+    "temp_f": 59,
     "precip_pct": 1,
-    "wind": "ENE 0 to 5 mph",
+    "wind": "N 0 to 5 mph",
     "short": "Mostly Sunny",
-    "detail": "Mostly sunny, with a high near 63."
+    "detail": "Mostly sunny, with a high near 59."
    },
    {
     "name": "Monday Night",
     "start": "2026-11-30T18:00:00-06:00",
     "is_day": false,
-    "temp_f": 40,
-    "precip_pct": 5,
+    "temp_f": 37,
+    "precip_pct": 1,
     "wind": " 0 mph",
     "short": "Partly Cloudy",
-    "detail": "Partly cloudy, with a low around 40."
+    "detail": "Partly cloudy, with a low around 37."
+   },
+   {
+    "name": "Tuesday",
+    "start": "2026-12-01T06:00:00-06:00",
+    "is_day": true,
+    "temp_f": 61,
+    "precip_pct": 15,
+    "wind": "ESE 0 to 5 mph",
+    "short": "Mostly Sunny then Slight Chance Rain Showers",
+    "detail": "A slight chance of rain showers after noon. Mostly sunny, with a high near 61. Chance of precipitation is 20%."
+   },
+   {
+    "name": "Tuesday Night",
+    "start": "2026-12-01T18:00:00-06:00",
+    "is_day": false,
+    "temp_f": 40,
+    "precip_pct": 15,
+    "wind": " 0 mph",
+    "short": "Slight Chance Rain Showers then Partly Cloudy",
+    "detail": "A slight chance of rain showers before midnight. Partly cloudy, with a low around 40."
    }
   ],
   "alerts": [],
   "current": {
-   "time": "2026-11-24T14:05:00+00:00",
-   "text": "Mostly Clear",
-   "temp_f": 41,
-   "wind_mph": null,
-   "humidity_pct": 70
+   "time": "2026-11-25T13:53:00+00:00",
+   "text": "Cloudy",
+   "temp_f": 53,
+   "wind_mph": 15,
+   "humidity_pct": 45
   },
-  "fetched_utc": "2026-11-24T14:28:22+00:00"
+  "fetched_utc": "2026-11-25T14:45:29+00:00"
  }
 }
