@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-26T12:00:03+00:00",
+ "generated_utc": "2026-11-27T10:30:03+00:00",
  "tickers": {
   "SCHX": {
    "name": "Schwab U.S. Large-Cap",
@@ -643,7 +643,7 @@
    "prev_close": 7217.5,
    "change": 30.25,
    "pct_change": 0.419,
-   "fetched_utc": "2026-11-26T12:00:04+00:00"
+   "fetched_utc": "2026-11-27T10:30:04+00:00"
   },
   "NQ=F": {
    "name": "Nasdaq 100 futures",
@@ -652,7 +652,7 @@
    "prev_close": 26275.75,
    "change": 114.0,
    "pct_change": 0.434,
-   "fetched_utc": "2026-11-26T12:00:04+00:00"
+   "fetched_utc": "2026-11-27T10:30:04+00:00"
   },
   "YM=F": {
    "name": "Dow futures",
@@ -661,7 +661,7 @@
    "prev_close": 50061.0,
    "change": 354.0,
    "pct_change": 0.707,
-   "fetched_utc": "2026-11-26T12:00:04+00:00"
+   "fetched_utc": "2026-11-27T10:30:04+00:00"
   },
   "RTY=F": {
    "name": "Russell 2000 futures",
@@ -670,171 +670,171 @@
    "prev_close": 2689.3,
    "change": 32.3999,
    "pct_change": 1.205,
-   "fetched_utc": "2026-11-26T12:00:04+00:00"
+   "fetched_utc": "2026-11-27T10:30:04+00:00"
   },
   "^N225": {
    "name": "Nikkei 225",
-   "last": 57440.3594,
-   "last_time_utc": "2026-11-26T06:25+00:00",
-   "prev_close": 57011.6211,
-   "change": 428.7383,
-   "pct_change": 0.752,
-   "fetched_utc": "2026-11-26T12:00:04+00:00"
+   "last": 58717.4805,
+   "last_time_utc": "2026-11-27T06:25+00:00",
+   "prev_close": 57499.1602,
+   "change": 1218.3203,
+   "pct_change": 2.119,
+   "fetched_utc": "2026-11-27T10:30:05+00:00"
   }
  },
  "weather": {
   "location": "Huntsville, AL",
-  "forecast_updated": "2026-11-26T11:50:13+00:00",
+  "forecast_updated": "2026-11-27T09:58:41+00:00",
   "periods": [
    {
-    "name": "Thanksgiving Day",
-    "start": "2026-11-26T06:00:00-06:00",
-    "is_day": true,
-    "temp_f": 48,
-    "precip_pct": 97,
-    "wind": "WNW 10 to 15 mph",
-    "short": "Rain Showers",
-    "detail": "Rain showers before 5pm, then rain and snow showers likely. Cloudy. High near 48, with temperatures falling to around 36 in the afternoon. West northwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
-   },
-   {
-    "name": "Tonight",
-    "start": "2026-11-26T18:00:00-06:00",
+    "name": "Overnight",
+    "start": "2026-11-27T04:00:00-06:00",
     "is_day": false,
-    "temp_f": 34,
-    "precip_pct": 70,
+    "temp_f": 35,
+    "precip_pct": 20,
     "wind": "W 15 mph",
-    "short": "Rain And Snow Showers Likely then Cloudy",
-    "detail": "Rain and snow showers likely before 7pm, then a chance of rain and snow showers between 7pm and midnight. Cloudy, with a low around 34. West wind around 15 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+    "short": "Slight Chance Drizzle",
+    "detail": "A slight chance of drizzle. Cloudy, with a low around 35. West wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
    },
    {
     "name": "Friday",
     "start": "2026-11-27T06:00:00-06:00",
     "is_day": true,
-    "temp_f": 50,
-    "precip_pct": 1,
+    "temp_f": 48,
+    "precip_pct": 2,
     "wind": "W 5 to 15 mph",
     "short": "Mostly Cloudy",
-    "detail": "Mostly cloudy, with a high near 50. West wind 5 to 15 mph, with gusts as high as 25 mph."
+    "detail": "Mostly cloudy, with a high near 48. West wind 5 to 15 mph, with gusts as high as 25 mph."
    },
    {
     "name": "Friday Night",
     "start": "2026-11-27T18:00:00-06:00",
     "is_day": false,
-    "temp_f": 31,
-    "precip_pct": 0,
+    "temp_f": 30,
+    "precip_pct": 1,
     "wind": "SW 0 to 5 mph",
-    "short": "Mostly Clear",
-    "detail": "Mostly clear, with a low around 31. Southwest wind 0 to 5 mph."
+    "short": "Patchy Fog",
+    "detail": "Patchy fog after 10pm. Partly cloudy, with a low around 30. Southwest wind 0 to 5 mph."
    },
    {
     "name": "Saturday",
     "start": "2026-11-28T06:00:00-06:00",
     "is_day": true,
-    "temp_f": 62,
+    "temp_f": 59,
     "precip_pct": 0,
-    "wind": "SSW 0 to 5 mph",
-    "short": "Sunny",
-    "detail": "Sunny, with a high near 62. South southwest wind 0 to 5 mph, with gusts as high as 20 mph."
+    "wind": "S 0 to 10 mph",
+    "short": "Patchy Fog then Sunny",
+    "detail": "Patchy fog before 7am. Sunny, with a high near 59. South wind 0 to 10 mph."
    },
    {
     "name": "Saturday Night",
     "start": "2026-11-28T18:00:00-06:00",
     "is_day": false,
-    "temp_f": 43,
+    "temp_f": 45,
     "precip_pct": 5,
     "wind": "S 5 to 10 mph",
-    "short": "Partly Cloudy",
-    "detail": "Partly cloudy, with a low around 43."
+    "short": "Mostly Cloudy",
+    "detail": "Mostly cloudy, with a low around 45. South wind 5 to 10 mph, with gusts as high as 25 mph."
    },
    {
     "name": "Sunday",
     "start": "2026-11-29T06:00:00-06:00",
     "is_day": true,
-    "temp_f": 63,
-    "precip_pct": 85,
-    "wind": "S 10 to 15 mph",
-    "short": "Showers And Thunderstorms",
-    "detail": "Showers and thunderstorms. Mostly cloudy, with a high near 63. Chance of precipitation is 90%."
+    "temp_f": 60,
+    "precip_pct": 98,
+    "wind": "SSW 10 to 15 mph",
+    "short": "Light Rain then Rain Showers",
+    "detail": "Rain before 9am, then rain and a slight chance of thunderstorms between 9am and noon, then rain showers. Mostly cloudy, with a high near 60. Chance of precipitation is 100%."
    },
    {
     "name": "Sunday Night",
     "start": "2026-11-29T18:00:00-06:00",
     "is_day": false,
-    "temp_f": 40,
-    "precip_pct": 18,
-    "wind": "WNW 5 to 15 mph",
-    "short": "Slight Chance Rain Showers then Mostly Cloudy",
-    "detail": "A slight chance of rain showers before midnight. Mostly cloudy, with a low around 40. Chance of precipitation is 20%."
+    "temp_f": 33,
+    "precip_pct": 7,
+    "wind": "NW 0 to 15 mph",
+    "short": "Mostly Cloudy",
+    "detail": "Mostly cloudy, with a low around 33."
    },
    {
     "name": "Monday",
     "start": "2026-11-30T06:00:00-06:00",
     "is_day": true,
-    "temp_f": 56,
+    "temp_f": 52,
     "precip_pct": 0,
-    "wind": "N 0 to 5 mph",
+    "wind": " 0 mph",
     "short": "Mostly Sunny",
-    "detail": "Mostly sunny, with a high near 56."
+    "detail": "Mostly sunny, with a high near 52."
    },
    {
     "name": "Monday Night",
     "start": "2026-11-30T18:00:00-06:00",
     "is_day": false,
-    "temp_f": 34,
-    "precip_pct": 1,
+    "temp_f": 31,
+    "precip_pct": 0,
     "wind": " 0 mph",
     "short": "Mostly Clear",
-    "detail": "Mostly clear, with a low around 34."
+    "detail": "Mostly clear, with a low around 31."
    },
    {
     "name": "Tuesday",
     "start": "2026-12-01T06:00:00-06:00",
     "is_day": true,
-    "temp_f": 60,
-    "precip_pct": 5,
-    "wind": "ESE 0 to 5 mph",
+    "temp_f": 59,
+    "precip_pct": 1,
+    "wind": "SE 0 to 5 mph",
     "short": "Mostly Sunny",
-    "detail": "Mostly sunny, with a high near 60."
+    "detail": "Mostly sunny, with a high near 59."
    },
    {
     "name": "Tuesday Night",
     "start": "2026-12-01T18:00:00-06:00",
     "is_day": false,
     "temp_f": 41,
-    "precip_pct": 4,
+    "precip_pct": 1,
     "wind": " 0 mph",
-    "short": "Partly Cloudy",
-    "detail": "Partly cloudy, with a low around 41."
+    "short": "Mostly Clear",
+    "detail": "Mostly clear, with a low around 41."
    },
    {
     "name": "Wednesday",
     "start": "2026-12-02T06:00:00-06:00",
     "is_day": true,
     "temp_f": 64,
-    "precip_pct": 1,
-    "wind": "SSE 0 to 5 mph",
-    "short": "Sunny",
-    "detail": "Sunny, with a high near 64."
+    "precip_pct": 0,
+    "wind": "SE 0 to 5 mph",
+    "short": "Mostly Sunny",
+    "detail": "Mostly sunny, with a high near 64."
    },
    {
     "name": "Wednesday Night",
     "start": "2026-12-02T18:00:00-06:00",
     "is_day": false,
-    "temp_f": 48,
-    "precip_pct": 0,
-    "wind": "SSE 5 mph",
+    "temp_f": 49,
+    "precip_pct": 3,
+    "wind": "SE 5 mph",
     "short": "Partly Cloudy",
-    "detail": "Partly cloudy, with a low around 48."
+    "detail": "Partly cloudy, with a low around 49."
+   },
+   {
+    "name": "Thursday",
+    "start": "2026-12-03T06:00:00-06:00",
+    "is_day": true,
+    "temp_f": 67,
+    "precip_pct": 30,
+    "wind": "SE 5 to 10 mph",
+    "short": "Chance Rain Showers",
+    "detail": "A chance of rain showers. Partly sunny, with a high near 67."
    }
   ],
   "alerts": [],
   "current": {
-   "time": "2026-11-26T11:40:00+00:00",
-   "text": "Light Rain",
-   "temp_f": 41,
+   "time": "2026-11-27T09:53:00+00:00",
+   "text": "Cloudy",
+   "temp_f": 39,
    "wind_mph": null,
-   "humidity_pct": 100
+   "humidity_pct": 89
   },
-  "fetched_utc": "2026-11-26T12:00:09+00:00"
+  "fetched_utc": "2026-11-27T10:30:07+00:00"
  }
 }
