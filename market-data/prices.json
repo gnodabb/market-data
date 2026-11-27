@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-27T10:30:03+00:00",
+ "generated_utc": "2026-11-27T12:00:02+00:00",
  "tickers": {
   "SCHX": {
    "name": "Schwab U.S. Large-Cap",
@@ -643,7 +643,7 @@
    "prev_close": 7217.5,
    "change": 30.25,
    "pct_change": 0.419,
-   "fetched_utc": "2026-11-27T10:30:04+00:00"
+   "fetched_utc": "2026-11-27T12:00:04+00:00"
   },
   "NQ=F": {
    "name": "Nasdaq 100 futures",
@@ -652,7 +652,7 @@
    "prev_close": 26275.75,
    "change": 114.0,
    "pct_change": 0.434,
-   "fetched_utc": "2026-11-27T10:30:04+00:00"
+   "fetched_utc": "2026-11-27T12:00:04+00:00"
   },
   "YM=F": {
    "name": "Dow futures",
@@ -661,7 +661,7 @@
    "prev_close": 50061.0,
    "change": 354.0,
    "pct_change": 0.707,
-   "fetched_utc": "2026-11-27T10:30:04+00:00"
+   "fetched_utc": "2026-11-27T12:00:04+00:00"
   },
   "RTY=F": {
    "name": "Russell 2000 futures",
@@ -670,7 +670,7 @@
    "prev_close": 2689.3,
    "change": 32.3999,
    "pct_change": 1.205,
-   "fetched_utc": "2026-11-27T10:30:04+00:00"
+   "fetched_utc": "2026-11-27T12:00:04+00:00"
   },
   "^N225": {
    "name": "Nikkei 225",
@@ -679,25 +679,15 @@
    "prev_close": 57499.1602,
    "change": 1218.3203,
    "pct_change": 2.119,
-   "fetched_utc": "2026-11-27T10:30:05+00:00"
+   "fetched_utc": "2026-11-27T12:00:04+00:00"
   }
  },
  "weather": {
   "location": "Huntsville, AL",
-  "forecast_updated": "2026-11-27T09:58:41+00:00",
+  "forecast_updated": "2026-11-27T11:50:14+00:00",
   "periods": [
    {
-    "name": "Overnight",
-    "start": "2026-11-27T04:00:00-06:00",
-    "is_day": false,
-    "temp_f": 35,
-    "precip_pct": 20,
-    "wind": "W 15 mph",
-    "short": "Slight Chance Drizzle",
-    "detail": "A slight chance of drizzle. Cloudy, with a low around 35. West wind around 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
-   },
-   {
-    "name": "Friday",
+    "name": "Today",
     "start": "2026-11-27T06:00:00-06:00",
     "is_day": true,
     "temp_f": 48,
@@ -707,7 +697,7 @@
     "detail": "Mostly cloudy, with a high near 48. West wind 5 to 15 mph, with gusts as high as 25 mph."
    },
    {
-    "name": "Friday Night",
+    "name": "Tonight",
     "start": "2026-11-27T18:00:00-06:00",
     "is_day": false,
     "temp_f": 30,
@@ -744,7 +734,7 @@
     "precip_pct": 98,
     "wind": "SSW 10 to 15 mph",
     "short": "Light Rain then Rain Showers",
-    "detail": "Rain before 9am, then rain and a slight chance of thunderstorms between 9am and noon, then rain showers. Mostly cloudy, with a high near 60. Chance of precipitation is 100%."
+    "detail": "Rain before 9am, then rain and a slight chance of thunderstorms between 9am and noon, then rain showers. Mostly cloudy, with a high near 60. South southwest wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%."
    },
    {
     "name": "Sunday Night",
@@ -824,17 +814,27 @@
     "precip_pct": 30,
     "wind": "SE 5 to 10 mph",
     "short": "Chance Rain Showers",
-    "detail": "A chance of rain showers. Partly sunny, with a high near 67."
+    "detail": "A chance of rain showers. Partly sunny, with a high near 67. Chance of precipitation is 30%."
+   },
+   {
+    "name": "Thursday Night",
+    "start": "2026-12-03T18:00:00-06:00",
+    "is_day": false,
+    "temp_f": 55,
+    "precip_pct": 63,
+    "wind": "SSE 10 to 15 mph",
+    "short": "Rain Showers Likely",
+    "detail": "Rain showers likely. Mostly cloudy, with a low around 55."
    }
   ],
   "alerts": [],
   "current": {
-   "time": "2026-11-27T09:53:00+00:00",
+   "time": "2026-11-27T11:45:00+00:00",
    "text": "Cloudy",
    "temp_f": 39,
    "wind_mph": null,
-   "humidity_pct": 89
+   "humidity_pct": 87
   },
-  "fetched_utc": "2026-11-27T10:30:07+00:00"
+  "fetched_utc": "2026-11-27T12:00:08+00:00"
  }
 }
